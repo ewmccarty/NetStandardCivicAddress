@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NetStandardCivicAddress</id>
+    <version>1.0.0</version>
+    <authors>Erik McCarty &lt;ewmccarty@gmail.com&gt;</authors>
+    <owners>Erik McCarty &lt;ewmccarty@gmail.com&gt;</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>.NET Core and Standard do not currently support System.Device.Location.CurrentAddress, which I needed in my application. This is a temporary fix until M$ comes out supporting their data type.</description>
+    <copyright>2018</copyright>
+    <tags>C# System.Device.Location.CurrentAddress</tags>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.1">
+        <dependency id="JetBrains.Annotations" version="11.1.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Options" version="2.1.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Options.ConfigurationExtensions" version="2.1.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\emc2\Source\repos\NetStandardCivicAddress\NetStandardCivicAddress\bin\Release\netcoreapp2.1\NetStandardCivicAddress.dll" target="lib\netcoreapp2.1\NetStandardCivicAddress.dll" />
+  </files>
+</package>

@@ -1,0 +1,17 @@
+C:\Users\emc2\Source\repos\NetStandardCivicAddress\NetStandardCivicAddress.Test\obj\Debug\netcoreapp2.1\NetStandardCivicAddress.Test.csprojAssemblyReference.cache
+C:\Users\emc2\Source\repos\NetStandardCivicAddress\NetStandardCivicAddress.Test\obj\Debug\netcoreapp2.1\NetStandardCivicAddress.Test.csproj.CoreCompileInputs.cache
+C:\Users\emc2\Source\repos\NetStandardCivicAddress\NetStandardCivicAddress.Test\obj\Debug\netcoreapp2.1\NetStandardCivicAddress.Test.AssemblyInfoInputs.cache
+C:\Users\emc2\Source\repos\NetStandardCivicAddress\NetStandardCivicAddress.Test\obj\Debug\netcoreapp2.1\NetStandardCivicAddress.Test.AssemblyInfo.cs
+C:\Users\emc2\Source\repos\NetStandardCivicAddress\NetStandardCivicAddress.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\emc2\Source\repos\NetStandardCivicAddress\NetStandardCivicAddress.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\emc2\Source\repos\NetStandardCivicAddress\NetStandardCivicAddress.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\emc2\Source\repos\NetStandardCivicAddress\NetStandardCivicAddress.Test\bin\Debug\netcoreapp2.1\NetStandardCivicAddress.Test.deps.json
+C:\Users\emc2\Source\repos\NetStandardCivicAddress\NetStandardCivicAddress.Test\bin\Debug\netcoreapp2.1\NetStandardCivicAddress.Test.runtimeconfig.json
+C:\Users\emc2\Source\repos\NetStandardCivicAddress\NetStandardCivicAddress.Test\bin\Debug\netcoreapp2.1\NetStandardCivicAddress.Test.runtimeconfig.dev.json
+C:\Users\emc2\Source\repos\NetStandardCivicAddress\NetStandardCivicAddress.Test\bin\Debug\netcoreapp2.1\NetStandardCivicAddress.Test.dll
+C:\Users\emc2\Source\repos\NetStandardCivicAddress\NetStandardCivicAddress.Test\bin\Debug\netcoreapp2.1\NetStandardCivicAddress.Test.pdb
+C:\Users\emc2\Source\repos\NetStandardCivicAddress\NetStandardCivicAddress.Test\bin\Debug\netcoreapp2.1\NetStandardCivicAddress.dll
+C:\Users\emc2\Source\repos\NetStandardCivicAddress\NetStandardCivicAddress.Test\bin\Debug\netcoreapp2.1\NetStandardCivicAddress.pdb
+C:\Users\emc2\Source\repos\NetStandardCivicAddress\NetStandardCivicAddress.Test\obj\Debug\netcoreapp2.1\NetStandardCivicAddress.Test.csproj.CopyComplete
+C:\Users\emc2\Source\repos\NetStandardCivicAddress\NetStandardCivicAddress.Test\obj\Debug\netcoreapp2.1\NetStandardCivicAddress.Test.dll
+C:\Users\emc2\Source\repos\NetStandardCivicAddress\NetStandardCivicAddress.Test\obj\Debug\netcoreapp2.1\NetStandardCivicAddress.Test.pdb

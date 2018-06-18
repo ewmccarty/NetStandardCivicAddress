@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>%24/Infrastructure/NetStandardCivicAddress/NetStandardCivicAddress</SccProjectName>
+    <SccProvider>{4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}</SccProvider>
+    <SccAuxPath>https://walkertx.visualstudio.com</SccAuxPath>
+    <SccLocalPath>.</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Erik McCarty &lt;ewmccarty@gmail.com&gt;</Authors>
+    <Company>Walker Engineering Inc.</Company>
+    <Description>.NET Core and Standard do not currently support System.Device.Location.CurrentAddress, which I needed in my application. This is a temporary fix until M$ comes out supporting their data type.</Description>
+    <Copyright>2018</Copyright>
+    <RepositoryUrl />
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>C# System.Device.Location.CurrentAddress</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="appsettings.Development.json" />
+    <None Remove="appsettings.json" />
+    <None Remove="NetStandardCivicAddress.csproj.vspscc" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="JetBrains.Annotations" Version="11.1.0" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="2.1.0" />
+    <PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="2.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Update="NETStandard.Library" Version="2.0.1" />
+  </ItemGroup>
+
+</Project>
